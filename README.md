@@ -54,6 +54,6 @@ For a seamless experience, create a new virtual environment before running the c
 Download the code using the provided link. Alternatively, open a terminal window and enter the following command:
 
 ```
-git clone https://github.com/Zeinab-Mohammadi/glm-hmm_package.git
+git clone https://github.com/Zeinab-Mohammadi/glm-hmm_final.git
 ```
 This structure improves the flow and readability while providing clear instructions for running the code. 
